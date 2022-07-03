@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RADIUS XOXO</string>
+    <string name="strlogo">logo</string>
+    <string name="radius">RADIUS</string>
+    <string name="xoxo">XOXO</string>
+    <string name="farol">Farol</string>
+    <string name="coraon">CORAZON</string>
+    <string name="digite_el_area_del_radio_a_plantar">DIGITE EL AREA DEL RADIO A PLANTAR</string>
+    <string name="area_de_la_zona_a_plantar">AREA DE LA ZONA A PLANTAR</string>
+    <string name="calcular_area">CALCULAR AREA</string>
+    <string name="digite_el_radio_de_la_zona_a_plantar">DIGITE EL RADIO DE LA ZONA A PLANTAR</string>
+    <string name="resultado">resultado</string>
+</resources>
